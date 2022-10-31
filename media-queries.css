@@ -1,29 +1,27 @@
+/*This is "Skip to main content"*/
+.alert-info{
+    background-color: rgb(203,255,254);
+    border: rgb(224,225,224) solid 2px;
+    height: 30px;
+    width: 100px;
 
-:root {
-    font-family: monospace, sans-serif;
-    font-size: 16px;
-}
 
-.main {
-    width: 339px;
-        
-}
-.image1 {
-    width:339px
-}
-.sub-section {
-    max-width: 339px
+
 }
 
-.main-wrapper {
+/*This is the Company*/
+h1{
     display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+
 }
 
+/*This is "Home,About, work, contact."*/
+.nav-links{
 
-
-
-@media screen (max-width:) {
-    
 }
+
+/*@media screen and (min-width:224 ){
+}
+*/
