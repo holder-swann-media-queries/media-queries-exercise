@@ -1,0 +1,29 @@
+
+:root {
+    font-family: monospace, sans-serif;
+    font-size: 16px;
+}
+
+.main {
+    width: 339px;
+        
+}
+.image1 {
+    width:339px
+}
+.sub-section {
+    max-width: 339px
+}
+
+.main-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+
+
+
+@media screen (max-width:) {
+    
+}
